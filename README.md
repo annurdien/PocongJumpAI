@@ -22,4 +22,4 @@ $ cd processing-3.5.4
 $ chmod +x install.sh
 $ ./install.sh
 ```
-![](https://pasteboard.co/52702f55-857d-4118-8efc-c9fe80110246)
+![](https://pasteboard.co/J3zVDKV.png)
